@@ -1,0 +1,5 @@
+node_modules/
+dist/
+halleyx.db
+halleyx.db-journal
+.env
